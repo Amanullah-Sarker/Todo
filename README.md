@@ -9,3 +9,4 @@ This is a simple Todo App. where user can add there todo. Can edit or delete als
 # 4. Coroutines.
 # 5. Live Data.
 # 6. View Binding.
+# 7. RecyclerView.
