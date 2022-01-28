@@ -1,6 +1,6 @@
 # Todo
-This project is as an Assesment of Hishabee Technologies Limited.
-This is a simple Todo App.
+
+# This project is as an Assesment of Hishabee Technologies Limited.
 
 # Feature:-
 # 1. Add Todo.
