@@ -1,6 +1,11 @@
 # Todo
 This project is as an Assesment of Hishabee Technologies Limited.
-This is a simple Todo App. where user can add there todo. Can edit or delete also.
+This is a simple Todo App.
+
+# Feature:-
+# 1. Add Todo.
+# 2. Edit Todo.
+# 3. Delete Todo.
 
 # Technology used:-
 # 1. MVVM Architecture.
